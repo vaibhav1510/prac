@@ -39,7 +39,7 @@ public class CommonInAlgebricNGeometricSeries1 {
         List<Integer> list3 = list1.size() > list2.size() ? list2 : list1;
         List<Integer> list4 = list1.size() > list2.size() ? list1 : list2;
         for (int i : list3) {
-            if(list4.contains(i)){
+            if (list4.contains(i)) {
                 count++;
             }
         }

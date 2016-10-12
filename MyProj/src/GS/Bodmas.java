@@ -117,6 +117,6 @@ public class Bodmas {
     // Driver method to test above methods
     public static void main(String[] args) {
 
-        System.out.println(Bodmas.evaluate(new String[]{"3.5", "-", "4"}));
+        System.out.println(Bodmas.evaluate(new String[]{"10", "+", "2", "*", "6"}));
     }
 }

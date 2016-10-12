@@ -11,6 +11,10 @@ package Testing2;
 public class TestMain {
 
     public static void main(String[] args) {
+//        System.out.println(true ^ true);
+//        System.out.println(false ^ false);
+//        System.out.println(true ^ false);
+//        System.out.println(false ^ true);
         String s = "cus_6cP4N5TKuyVL5A|card_16PAGEApqRMNvlpeAgEi5Ney";
         String[] arr = s.split("\\|");
         System.out.println(arr.length);

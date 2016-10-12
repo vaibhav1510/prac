@@ -33,7 +33,7 @@ public class TestMain {
 //        Number n = (Number) d;
 //        System.out.println(numberToString(n));
     }
-
+    
     public static String numberToString(Number number) {
 // Shave off trailing zeros and decimal point, if possible.
         String string = number.toString();

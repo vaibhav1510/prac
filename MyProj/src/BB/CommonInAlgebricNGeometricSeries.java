@@ -5,7 +5,6 @@
  */
 package BB;
 
-
 /**
  *
  * @author vaibhav
@@ -15,7 +14,8 @@ public class CommonInAlgebricNGeometricSeries {
     public static void main(String[] args) {
         System.out.println(countSeriesTerms(1, 1, 1, 2, 4));
     }
-    static int count=0;
+    static int count = 0;
+
     static int countSeriesTerms(int A, int D, int B, int R, int Lim) {
         int val1 = A, val2 = B;
         Node root = new Node(A);
@@ -32,6 +32,7 @@ public class CommonInAlgebricNGeometricSeries {
         }
         return count;
     }
+
     static class Node {
 
         Node left;
