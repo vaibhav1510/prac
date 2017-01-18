@@ -17,7 +17,8 @@ import java.util.regex.Pattern;
 public class Test {
 
     public static void main(String[] args) throws Exception {
-        test();
+        test1();
+//        test();
 //        String s = "vaibhav";
 //        String[] list = s.split("\\s", 2);
 //        System.out.println(list.length);
@@ -30,7 +31,15 @@ public class Test {
 //            System.out.println(j);
 //        }
     }
-    
+
+    private static void test1() throws Exception {
+//        String ip = "192.168.0.1, 172.91.28.1";
+//        String ip = "192.168.0.1";
+        String ip = "";
+        String[] ipAddresses = ip.split(",");
+        System.out.println(ipAddresses[0]);
+    }
+
     private static void test() throws Exception {
         int x = 0;
         int y = 0;
