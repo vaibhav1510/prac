@@ -18,6 +18,7 @@ public class TestMain {
 
     public static void main(String[] args) {
         System.out.println(TestMain.class.getSimpleName());
+        System.out.print(Timestamp.valueOf("2018-01-15 00:00:00"));
 //        System.out.println(Character.getNumericValue('Z'));
 //        System.out.println(Timestamp.valueOf("2014-05-01 00:00:00"));
 //        System.out.println(Timestamp.valueOf("2014-05-01 00:00:00").toString());

@@ -21,11 +21,11 @@ public class LLInsertAtTail {
         Node next;
     }
 
-    Node Insert(Node head, int data) {
+    Node insert(Node head, int data) {
         if (head == null) {
             return new Node(data, null);
         }
-        head.next = Insert(head.next, data);
+        head.next = insert(head.next, data);
         return head;
     }
 
@@ -45,7 +45,7 @@ public class LLInsertAtTail {
 //        h.next.next = new Node(4, null);
 
         LLInsertAtTail ll = new LLInsertAtTail();
-        ll.print(ll.Insert(h, 5));
+        ll.print(ll.insert(h, 5));
 
     }
 }
