@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fc7f740-c213-459b-88fc-901bbf51f666" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyProj/src/Testing/Equations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyProj/src/Testing/LongestPalindromSubString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyProj/out/production/MyProj/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/MyProj/out/production/MyProj/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyProj/out/production/MyProj/Testing/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/MyProj/out/production/MyProj/Testing/TestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyProj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MyProj/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyProj/Testing/Equations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyProj/Testing/Equations.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,35 +14,89 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyProj/src/Testing/TestMain.java">
+        <entry file="file://$PROJECT_DIR$/MyProj/src/Testt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+            <state relative-caret-position="119">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyProj/src/Testing/LongestPalindromSubString.java">
+        <entry file="file://$PROJECT_DIR$/MyProj/src/PPTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="527">
+              <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyProj/src/IsMatchesPresent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="104" column="3" selection-start-line="104" selection-start-column="3" selection-end-line="104" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyProj/src/Practice/binary_tree/Tree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyProj/src/Practice/producer_consumer/ProducerConsumerSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1105">
+              <caret line="70" column="6" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyProj/src/Practice/trees/BfsLevelOrderTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-120">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyProj/src/Practice/trees/BfsSpiralTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyProj/src/Practice/trees/BfsTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1389">
+              <caret line="115" column="6" selection-start-line="115" selection-start-column="6" selection-end-line="115" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MyProj/src/Testing/Equations.java">
+        <entry file="file://$PROJECT_DIR$/MyProj/src/Practice/trees/IsBinaryTreeBST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
-              <caret line="35" column="5" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
+            <state relative-caret-position="211">
+              <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#144#145#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#1349#1350#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,6 +120,9 @@
         <option value="$PROJECT_DIR$/MyProj/src/Testing/TestMain.java" />
         <option value="$PROJECT_DIR$/MyProj/src/Testing/LongestPalindromSubString.java" />
         <option value="$PROJECT_DIR$/MyProj/src/Testing/Equations.java" />
+        <option value="$PROJECT_DIR$/MyProj/src/PPTest.java" />
+        <option value="$PROJECT_DIR$/MyProj/src/IsMatchesPresent.java" />
+        <option value="$PROJECT_DIR$/MyProj/src/Practice/trees/IsBinaryTreeBST.java" />
       </list>
     </option>
   </component>
@@ -80,7 +136,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -104,20 +160,29 @@
               <item name="prac" type="462c0819:PsiDirectoryNode" />
               <item name="MyProj" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Testing" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="prac" type="b2602c69:ProjectViewProjectNode" />
               <item name="prac" type="462c0819:PsiDirectoryNode" />
               <item name="MyProj" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Training" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="binary_tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prac" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prac" type="462c0819:PsiDirectoryNode" />
+              <item name="MyProj" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="trees" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -139,13 +204,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Equations">
+  <component name="RunManager" selected="Application.IsBinaryTreeBST">
     <configuration name="Equations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Testing.Equations" />
       <module name="MyProj" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsBinaryTreeBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.trees.IsBinaryTreeBST" />
+      <module name="MyProj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.trees.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,8 +244,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PPTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PPTest" />
+      <module name="MyProj" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsBinaryTreeBST" />
+        <item itemvalue="Application.PPTest" />
         <item itemvalue="Application.Equations" />
         <item itemvalue="Application.LongestPalindromSubString" />
       </list>
@@ -184,40 +271,113 @@
       <option name="presentableId" value="Default" />
       <updated>1548558281452</updated>
       <workItem from="1548558287217" duration="3540000" />
+      <workItem from="1548659891947" duration="1344000" />
+      <workItem from="1548742245720" duration="547000" />
+      <workItem from="1548853135206" duration="595000" />
+      <workItem from="1548919551594" duration="886000" />
+      <workItem from="1549019464003" duration="600000" />
+      <workItem from="1549260968696" duration="1046000" />
+      <workItem from="1549344703370" duration="509000" />
+      <workItem from="1549346841334" duration="743000" />
+      <workItem from="1549433713935" duration="589000" />
+      <workItem from="1549518826611" duration="1113000" />
+      <workItem from="1549608063519" duration="1069000" />
+      <workItem from="1549875612877" duration="1126000" />
+      <workItem from="1549953061866" duration="602000" />
+      <workItem from="1550037690989" duration="597000" />
+      <workItem from="1550123783071" duration="1194000" />
+      <workItem from="1550212176582" duration="1230000" />
+      <workItem from="1550461245838" duration="515000" />
+      <workItem from="1550467129762" duration="788000" />
+      <workItem from="1550553105996" duration="1338000" />
+      <workItem from="1550647933863" duration="1189000" />
+      <workItem from="1550734532274" duration="599000" />
+      <workItem from="1551084458708" duration="1028000" />
+      <workItem from="1551168804988" duration="1719000" />
+      <workItem from="1551245245176" duration="1155000" />
+      <workItem from="1551350420677" duration="1565000" />
+      <workItem from="1551421153224" duration="1196000" />
+      <workItem from="1552290229788" duration="840000" />
+      <workItem from="1552367546590" duration="1152000" />
+      <workItem from="1552452271573" duration="601000" />
+      <workItem from="1552542251807" duration="599000" />
+      <workItem from="1552629454593" duration="610000" />
+      <workItem from="1552885541966" duration="1176000" />
+      <workItem from="1552974649043" duration="597000" />
+      <workItem from="1553060926868" duration="1093000" />
+      <workItem from="1553099780264" duration="603000" />
+      <workItem from="1553232947644" duration="1011000" />
+      <workItem from="1553492122022" duration="670000" />
+      <workItem from="1553515147363" duration="644000" />
+      <workItem from="1553579509161" duration="2673000" />
+      <workItem from="1553662979649" duration="2411000" />
+      <workItem from="1553751372909" duration="1770000" />
+      <workItem from="1553776092912" duration="1194000" />
+      <workItem from="1553836821826" duration="722000" />
+      <workItem from="1554096806803" duration="1151000" />
+      <workItem from="1554188614674" duration="1324000" />
+      <workItem from="1554268839518" duration="1009000" />
+      <workItem from="1554355190096" duration="560000" />
+      <workItem from="1554701305445" duration="581000" />
+      <workItem from="1554789168735" duration="664000" />
+      <workItem from="1554875994640" duration="601000" />
+      <workItem from="1555299850964" duration="2294000" />
+      <workItem from="1555325233885" duration="623000" />
+      <workItem from="1555653874658" duration="426000" />
+      <workItem from="1556016486415" duration="592000" />
+      <workItem from="1556083922779" duration="894000" />
+      <workItem from="1556111632951" duration="510000" />
+      <workItem from="1556169291417" duration="530000" />
+      <workItem from="1556350407426" duration="627000" />
+      <workItem from="1556541679393" duration="665000" />
+      <workItem from="1556600419869" duration="494000" />
+      <workItem from="1556780290763" duration="898000" />
+      <workItem from="1557210965597" duration="598000" />
+      <workItem from="1557302503549" duration="597000" />
+      <workItem from="1557475633656" duration="753000" />
+      <workItem from="1557802633376" duration="651000" />
+      <workItem from="1557811614330" duration="995000" />
+      <workItem from="1557921431464" duration="599000" />
+      <workItem from="1557986343996" duration="1197000" />
+      <workItem from="1557987829341" duration="338000" />
+      <workItem from="1557988217577" duration="1356000" />
+      <workItem from="1558070395080" duration="1022000" />
+      <workItem from="1558277527318" duration="3311000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3540000" />
+    <option name="totallyTimeSpent" value="72648000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2197092" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329927" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329927" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.329927" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,15 +386,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/MyProj/src/Testing/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
+        <state relative-caret-position="714">
           <caret line="49" column="9" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyProj/src/Testing/LongestPalindromSubString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+        <state relative-caret-position="714">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -243,10 +403,79 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MyProj/src/Testing/Equations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
+        <state relative-caret-position="312">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyProj/src/Testt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyProj/src/PPTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyProj/src/Practice/binary_tree/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyProj/src/Practice/producer_consumer/ProducerConsumerSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="70" column="6" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyProj/src/Practice/trees/BfsTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1389">
+          <caret line="115" column="6" selection-start-line="115" selection-start-column="6" selection-end-line="115" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyProj/src/Practice/trees/BfsSpiralTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyProj/src/Practice/trees/BfsLevelOrderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyProj/src/IsMatchesPresent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="104" column="3" selection-start-line="104" selection-start-column="3" selection-end-line="104" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyProj/src/Practice/trees/IsBinaryTreeBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#1349#1350#0" expanded="true" />
           </folding>
         </state>
       </provider>
